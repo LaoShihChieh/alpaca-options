@@ -1,0 +1,6 @@
+09:31:30  INFO      __main__: Logging initialised — file: /Users/andrewlao/alpaca-options/logs/dry_run_20260524.log
+09:31:35  INFO      alpaca_options.client: Alpaca paper-trading clients initialised (paper=True).
+09:31:35  INFO      alpaca_options.live.runner: LiveRunner started in DRY-RUN mode — no orders will be submitted. entry_poll=60s  monitor_poll=30s
+09:31:35  INFO      alpaca_options.live.runner: LiveRunner.run() started — entry_poll=60s  monitor_poll=30s  dry_run=True
+09:52:20  INFO      alpaca_options.live.runner: SIGINT received — initiating graceful shutdown.
+09:52:20  INFO      alpaca_options.live.runner: SHUTDOWN: flushing log handlers.
